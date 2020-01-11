@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Car_Repair_16px.ico</file>
+        <file>customer.ico</file>
+        <file>insurance.ico</file>
+        <file>xiche.ico</file>
+        <file>manage.ico</file>
+        <file>CarManage.ico</file>
+        <file>back.jpg</file>
+        <file>about.ico</file>
+    </qresource>
+</RCC>
